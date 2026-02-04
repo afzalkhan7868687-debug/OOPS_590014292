@@ -1,3 +1,4 @@
+// write a program to show chaining of super () is not allowed in java .
 class A {
     A() {
         System.out.println("A class constructor");
